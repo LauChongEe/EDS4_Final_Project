@@ -10,7 +10,8 @@ Our goal here is to identify good stocks that are growing healthily at a sustain
 ## Requirements
 
 - Download all the Jupyter code files and  folders listed in Github to your local machine.
-- Unzip 'Forward_Finance_Data_Web_Files.zip' to folder "Forward_Finance_Data_Web_Files".
+- Unzip "Forward_Finance_Data_Web_Files.zip" to folder "Forward_Finance_Data_Web_Files".
+- Unzip "Processed_Historical_Finance_Data.zip" to folder "Processed_Historical_Finance_Data".
 - Unzip content of 2 zip files in folder "Historical_Finance_Data" without creating new folder. After done, delete the zip files from folder.
 - Get c0redumb/yahoo_quote_download code file from https://github.com/c0redumb/yahoo_quote_download (a copy of c0redumb code was attached). This code will help to acquired stock price for S&P 500 company.
 
